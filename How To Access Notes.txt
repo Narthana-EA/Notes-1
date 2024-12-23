@@ -1,11 +1,9 @@
 CAPITAL capital LETTER OR ALPHABET UPPER CASE EXAMPLE ( S )  A
 SMALL LETTER OR ALPHABET LOWER CASE  EXAMPLE ( S ) a
-PLAYSTORE playstore
 Zip Extractor
 
 CAPITAL capital LETTER OR ALPHABET UPPER CASE EXAMPLE ( S ) A
 SMALL LETTER OR ALPHABET LOWER CASE  EXAMPLE ( S ) a
-PLAYSTORE playstore
 Zip Extractor
 
 www.google.com
@@ -64,9 +62,11 @@ WPS Office
 WPS
 Word , Powerpoint Presentation or PPT or PDF pdf and And Excel Sheet
 ... 3 Three Dot ( s )
+COPY AND PASTE
+copy and paste
 
 
 --
-Narthana Krishnaraj  BCA  ,  MCA
+Narthana Krishnaraj BCA , MSc IT
 Faculty- Programming Department
 Elysium Academy, Chennai
