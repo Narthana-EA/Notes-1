@@ -1,0 +1,29 @@
+Notes 4
+HTML (Hypertext Markup Language)
+Purpose: Creates and structures web pages and web applications.
+Created by: Tim Berners-Lee, 1991
+Versions: 1.0, 5.0
+CSS (Cascading Style Sheets)
+Purpose: Adds style, decoration, and color to web pages and applications.
+Created by: Håkon Wium Lie, 1994
+Versions: 1.0, 4.0
+Scripting Languages
+Purpose: Execute scripts inside browsers like Google Chrome or Microsoft Edge.
+Characteristics: Line-by-line execution, uses tags (e.g., <p> for paragraphs), attributes (e.g., align="center"), and style properties (e.g., color:green).
+Basic HTML Code Example:
+<html>
+<head>
+<title>HTML and CSS</title>
+</head>
+<body style="background-color:yellow">
+<b>
+<p>Narthana is teaching Gayathri HTML and CSS</p>
+<p align="center">Narthana is teaching Gayathri HTML and CSS</p>
+<p style="color:green">Narthana is teaching Gayathri HTML and CSS</p>
+</b>
+</body>
+</html>
+Key Concepts:
+Tags: <p>, <html>, <head>, <body>
+Attributes: align, style
+Syntax: <tag attribute="value">Content</tag>

@@ -1,0 +1,62 @@
+ Notes 3
+ HTML FRONT END CLIENT SIDE 
+ WEB PAGE ( S ) WEB SITE -> APP ( S ) APPLICATION ( S ) CONTENT
+ HTML TIM BENER LIE OR LEE 1991 1.0 or 1
+                                5.0 or 5
+ CSS CASCADING STYLE SHEET 
+ WEB PAGE ( S ) WEB SITE -> APP ( S ) APPLICATION ( S ) MAXIMUM STYLE OR DECORATION OR COLORS OR COLOURS
+ CSS Hakon Wium Lie 1994 1.0 or 1
+                         4.0 or 4
+ SCRIPTING LANGUAGE ( S )
+ 1 RUN ( S ) EXECUTE ( S ) INSIDE OR IN BROWSER ( S ) SEARCH ENGINE ( S ) LIKE GOOGLE CHROME , MICROSOFT EDGE
+ AND NOT AS FILE file
+ 2 LINE BY LINE 
+ <START TAG> CONTENT </END TAG>
+ TAG ( S ) KEYWORD INBUILT , BUILTIN , PREDEFINED , DEFAULT , RESERVED
+ CONTENT IDENTIFIER ANYTHING USER IS PERSON USING THE LANGUAGE LIKE Narthana and And Gayathri 
+ < / > SYMBOL ( S ) TOKEN ( S ) SEPERATOR ( S ) ; and And , SPACE OR WHITE SPACE or white space or space
+ BASIC TAG ( S ) PARENT -> ELEMENT ( S ) TAG ( S ) CHILD 
+ <p align="center"> Narthana is Teaching Gayathri HTML And CSS </p>
+ SYNTAX FORMAT STRUCTURE CAN NOT RUN OR EXECUTE OR PRIVIEW
+ PROGRAM ( S ) CODE ( S ) SCRIPT ( S ) EXAMPLE ( S ) like this p paragraph tag TAG  
+ ATTRIBUTE NAME = " ATTRIBUTE VALUE "
+ align = " center "
+ <p style=color:green> Narthana is Teaching Gayathri HTML And CSS </p>
+ ATTRIBUTE NAME = ATTRIBUTE PROPERTY NAME :  ATTRIBUTE PROPERTY VALUE 
+ style = color : green 
+ p PARAGRAPH TAG ( S ) SELECTOR selector 
+ PROGRAM ( S ) CODE ( S ) SCRIPT ( S ) script ( s )
+ <html>
+ <head>
+ <title>
+ HTML And CSS
+ </title>
+ </head>
+ <body style="background-color:yellow">
+ <b>
+ <p> Narthana is Teaching Gayathri HTML And CSS </p>
+ <p align="center"> Narthana is Teaching Gayathri HTML And CSS </p>
+ <p style="color:green"> Narthana is Teaching Gayathri HTML And CSS </p>
+ </b>
+ </body>
+ </html>
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 

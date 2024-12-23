@@ -1,0 +1,39 @@
+Notes 1
+Web Page ( s ) or Website & App ( s ) or Application ( s ) :
+www.google.com
+Browser / Search Engine: Google Chrome or Microsoft Edge
+WhatsApp Web
+Telegram Desktop App
+TUTORIAL tutorial
+Tutorials or TUTORIALS : Computer Organization, Architecture, Hardware, Basics of IT or information technlogy and Computer Science
+Terminology:
+Capital: Uppercase (A)
+Small Letter: Lowercase (a)
+Hardware: Physical components (e.g., phone)
+Software: Virtual applications (e.g., WhatsApp)
+Database: Storage system (e.g., MySQL)
+SQL: Language to access relational databases
+Data: Raw facts processed into information (e.g., MS Word, Excel)
+Communication Mediums:
+Wired Cable
+Wireless: Wi-Fi (provided by ISPs like Jio, Airtel, BSNL) and Mobile Data from satellite and transformer or tower 
+Software Setup:
+MySQL Installation:
+Download and install MySQL Server and Workbench from official pages.
+Configure settings and create a connection in MySQL Workbench.
+Alternative IDE:
+Install DBeaver: Download, install, and connect to MySQL Server.
+IDE Tips:
+Backup data regularly.
+Use SQL scripts for management.
+Explore IDE or ide INTEGRATED DEVELOPMENT ENVIRONMENT TOOL ( S ) APP ( S ) APPLICATION ( S ) features like query builders and data modeling tools.
+SQL Overview:
+Creators or inventors or Developers : Donald D. Chamberlin and Raymond Boyce
+Basic Syntax: Keywords, symbols, and delimiters (e.g., commas, semicolons)
+SQL Example:
+sql code
+CREATE TABLE Narthana_BCA,MCA (
+  sno INT, 
+  name STRING, 
+  date VARCHAR(255)
+);

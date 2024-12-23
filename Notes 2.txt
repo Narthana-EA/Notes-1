@@ -1,0 +1,52 @@
+Notes 2
+Google
+Tutorials:
+Computer Hardware
+Computer Basics
+Information Technology
+Computer Science
+Terminology:
+CAPITAL Uppercase : Example: A
+SMALL Lowercase : Example: a
+HARDWARE: Physical devices (e.g., phone)
+SOFTWARE: Virtual (e.g., WhatsApp)
+Software Mobile Device ( s ) Terms:
+APP/Applications: Any device or machine MACHINE OR or system
+OS: Operating System
+COMMUNICATION MEDIUM:
+Wired (Cables)
+Wireless (Wi-Fi, Mobile Data)
+Database:
+MySQL: Provided by Microsoft Coprporate or Corporation or Company , Organisation or Organization 
+SQL: Structured Query Language for accessing relational databases
+Data Processing:
+RAW DATA → PROCESSED → INFORMATION
+MS Office: MS Word, MS Excel, MS PowerPoint, MS Access
+Environment Setup for MySQL:
+Install MySQL Server:
+Download and install MySQL Server.
+Configure settings.
+Install MySQL Workbench:
+Download and install.
+Connect MySQL Workbench:
+Create and configure a connection.
+Install DBeaver (Alternative IDE):
+Download and install.
+Connect DBeaver:
+Set up and test the connection.
+Verification:
+Run a test query: SELECT VERSION();
+Additional Tips:
+Backup data regularly.
+Use SQL scripts for management.
+Explore IDE features.
+SQL Basics:
+Key People: Donald D. Chamberlin, Raymond Boyce
+Syntax: Run or execute queries/commands.
+Symbols: Tokens, separators, delimiters.
+MySQL Example:
+CREATE TABLE Narthana_BCA,MCA (sno INT, name STRING, date VARCHAR(255));
+Data Types:
+INT: Integer
+STRING: Text
+VARCHAR (255): Variable character or characters length up to 255
